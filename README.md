@@ -1,4 +1,4 @@
-# Divident-Calculator
+# Dividend-Calculator
 A small program to check wether a number is divident of 3 or 5 or not.
 
 If the number is divident of 3: background color changes to blue.
